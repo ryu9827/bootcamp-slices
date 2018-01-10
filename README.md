@@ -1,10 +1,9 @@
 ### What is this repository for? ###
 
-* Blockchain Lab
-* Bootcamp
-* Jan 9 - Feb
+* Blockchain Lab Bootcamp
+* Jan 9 - Feb 16
 
 ### Structure ###
 
 * Presentations - our weekly progress tracking
-* Memories - some specific things to remember
+* Docs - some specific things to remember
